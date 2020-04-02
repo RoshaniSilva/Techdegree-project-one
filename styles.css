@@ -27,7 +27,7 @@ a:hover {
 .navigation-bar {
   width: 100%;
   background: #9A5C09;
-  min-height: 30px;
+  min-height: 50px;
   padding: 10px;
   position: fixed;
   text-align: center;
