@@ -68,11 +68,11 @@ header.introcution {
   line-height: 1.5;
 }
 header .profile-image {
-  margin-top: 50px;
-  width: 150px;
-  height: 150px;
+  margin-top: 40px;
+  width: 100px;
+  height: 100px;
   border-radius: 30%;
-  border: 6px dashed black;
+  border: 2px dashed black;
   transition: all .10s;
 }
 
@@ -89,7 +89,7 @@ header .profile-image:hover {
 }
 .location {
   background-color: #ECD2B0;
-  color: yellow;
+  color: black;
 }
 .card {
   margin: 30px;
