@@ -69,8 +69,8 @@ header.introcution {
 }
 header .profile-image {
   margin-top: 40px;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 30%;
   border: 2px dashed black;
   transition: all .10s;
