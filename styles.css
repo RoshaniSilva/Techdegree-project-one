@@ -72,7 +72,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 30%;
-  border: 10px dashed black;
+  border: 6px dashed black;
   transition: all .5s;
 }
 
